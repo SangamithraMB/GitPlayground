@@ -12,7 +12,7 @@ def filter_negative_numbers(numbers):
     for num in numbers:
         if num >= 0:
             new_numbers.append(num)
-    return new_numbers  # The return statement was indented incorrectly
+    return new_numbers
 
 
 def sum_numbers(numbers):
